@@ -1,0 +1,253 @@
+export const destinationData = [
+    {
+        id: 1,
+        image: "/images/1. Черный кот с рыбкой.jpg",
+        country: "France",
+        travelers: "150,000",
+    },
+    {
+        id: 2,
+        image: "/images/10. Цветы.jpg",
+        country: "USA",
+        travelers: "250,000",
+    },
+    {
+        id: 3,
+        image: "/images/11. Закат.jpg",
+        country: "Italy",
+        travelers: "180,000",
+    },
+    {
+        id: 4,
+        image: "/images/12. Вода.jpg",
+        country: "Japan",
+        travelers: "220,000",
+    },
+    {
+        id: 5,
+        image: "/images/13. Камни.jpg",
+        country: "Spain",
+        travelers: "170,000",
+    },
+    {
+        id: 6,
+        image: "/images/14. Листва.jpg",
+        country: "Turkey",
+        travelers: "200,000",
+    },
+    {
+        id: 7,
+        image: "/images/15. Облака.jpg",
+        country: "Germany",
+        travelers: "160,000",
+    },
+    {
+        id: 8,
+        image: "/images/16. Город.jpg",
+        country: "Australia",
+        travelers: "140,000",
+    },
+    {
+        id: 9,
+        image: "/images/17. Мост.jpg",
+        country: "Brazil",
+        travelers: "190,000",
+    },
+    {
+        id: 10,
+        image: "/images/18. Замок Химэдзи.jpg",
+        country: "Egypt",
+        travelers: "130,000",
+    },
+];
+
+export const hotelsData = [
+    {
+        id: 1,
+        image: "/app/public/images/19. Самолеты.jpg",
+        name: "The Grand London Resort and Spa",
+        location: "Westminster, London",
+        rating: 4.6,
+        reviews: "2,345",
+        price: "72",
+    },
+    {
+        id: 2,
+        image: "/app/public/images/2. Хаски.jpg",
+        name: "Barcelona City Suites Deluxe Hotel",
+        location: "Ciutat Vella, Barcelona",
+        rating: 4.7,
+        reviews: "1,912",
+        price: "85",
+    },
+    {
+        id: 3,
+        image: "/app/public/images/20. Карандаши.jpg",
+        name: "Rome Royal Garden Inn",
+        location: "Centro Storico, Rome",
+        rating: 4.5,
+        reviews: "1,540",
+        price: "78",
+    },
+    {
+        id: 4,
+        image: "/app/public/images/21. Горы.jpg",
+        name: "Tokyo Imperial Plaza",
+        location: "Chiyoda, Tokyo",
+        rating: 4.8,
+        reviews: "2,890",
+        price: "95",
+    },
+    {
+        id: 5,
+        image: "/app/public/images/22. Windows Logo.jpg",
+        name: "New York Skyline Hotel",
+        location: "Manhattan, New York",
+        rating: 4.3,
+        reviews: "3,102",
+        price: "110",
+    },
+    {
+        id: 6,
+        image: "/app/public/images/23. Windows Logo 2.jpg",
+        name: "Istanbul Sapphire Inn",
+        location: "Fatih, Istanbul",
+        rating: 4.6,
+        reviews: "1,745",
+        price: "60",
+    },
+    {
+        id: 7,
+        image: "/app/public/images/24. Windows Logo 3.jpg",
+        name: "Paris Eiffel Retreat",
+        location: "7th Arrondissement, Paris",
+        rating: 4.4,
+        reviews: "2,210",
+        price: "88",
+    },
+    {
+        id: 8,
+        image: "/app/public/images/25. Ромашки.jpg",
+        name: "Berlin Central Suites",
+        location: "Mitte, Berlin",
+        rating: 4.2,
+        reviews: "1,320",
+        price: "70",
+    },
+    {
+        id: 9,
+        image: "/app/public/images/3. Леопард.jpg",
+        name: "Dubai Marina Luxury Stay",
+        location: "Dubai Marina, Dubai",
+        rating: 4.9,
+        reviews: "3,480",
+        price: "120",
+    },
+    {
+        id: 10,
+        image: "/app/public/images/4. Кот с наушниками.jpg",
+        name: "Amsterdam Canal View Hotel",
+        location: "Centrum, Amsterdam",
+        rating: 4.3,
+        reviews: "1,870",
+        price: "76",
+    },
+];
+
+export const toursData = [
+    {
+        id: 1,
+        image: "/app/public/images/5. Белый тигренок.jpg",
+        title: "Thames Luxury Boat Cruise with Dinner",
+        location: "London, United Kingdom",
+        time: "2-3 hours",
+        type: "Private & Luxury Cruises",
+        rating: 4.8,
+        reviews: "2,300",
+        price: "110"
+    },
+    {
+        id: 4,
+        image: "/app/public/images/6. Жираф.jpg",
+        title: "Edinburgh Haunted History Walking Tour",
+        location: "Edinburgh, Scotland",
+        time: "2+ hours",
+        type: "Ghost & Mystery Tours",
+        rating: 4.6,
+        reviews: "1,050",
+        price: "40"
+    },
+    // Yana qo‘shimcha ma'lumotlar:
+    {
+        id: 5,
+        image: "/app/public/images/7. Бабочка.jpg",
+        title: "Paris Evening Eiffel Tower Tour",
+        location: "Paris, France",
+        time: "1.5 hours",
+        type: "Historical Tours",
+        rating: 4.7,
+        reviews: "3,200",
+        price: "85"
+    },
+    {
+        id: 6,
+        image: "/app/public/images/9. Пустыня.jpg",
+        title: "Rome Colosseum and Ancient Ruins Tour",
+        location: "Rome, Italy",
+        time: "3 hours",
+        type: "Archaeological Tours",
+        rating: 4.9,
+        reviews: "4,500",
+        price: "95"
+    }
+];
+export const reviewData = [
+    {
+        id: 1,
+        name: "John Doe",
+        review: "The service exceeded my expectations. The team was professional, and I couldn’t be happier with the results!",
+        image: "/app/public/images/8. Божья коровка.jpg",
+    },
+    {
+        id: 2,
+        name: "Jane Smith",
+        review: "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver with precision.",
+        image: "/app/public/images/8. Божья коровка.jpg",
+    },
+    {
+        id: 3,
+        name: "Michael Brown",
+        review: "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted.",
+        image: "/app/public/images/11. Закат.jpg",
+    },
+    {
+        id: 4,
+        name: "Emily Davis",
+        review: "Great experience from start to finish. Communication was excellent, and the final outcome was better than expected!",
+        image: "/app/public/images/14. Листва.jpg",
+    },
+    {
+        id: 5,
+        name: "David Wilson",
+        review: "Very satisfied with the service provided. Highly recommended for anyone looking for reliability and efficiency.",
+        image: "/app/public/images/7. Бабочка.jpg",
+    },
+    {
+        id: 6,
+        name: "Sophia Turner",
+        review: "Friendly team, clear communication, and excellent results. I’ll definitely return for future projects.",
+        image: "/app/public/images/8. Божья коровка.jpg",
+    },
+    {
+        id: 7,
+        name: "Chris Johnson",
+        review: "Superb quality and fast delivery. The attention to detail really stood out. Thanks for the great work!",
+        image: "/app/public/images/2. Хаски.jpg",
+    },
+    {
+        id: 8,
+        name: "Olivia Martinez",
+        review: "Amazing service from beginning to end. Everything was handled smoothly and professionally.",
+        image: "/app/public/images/4. Кот с наушниками.jpg",
+    }
+];
