@@ -8,7 +8,7 @@ function Hero() {
         <div className='relative w-full h-[120vh] sm:h-[100vh]'>
             <div className='absolute top-0 left-0 w-full h-full'>
                 <Image
-                    src="/images/12. Вода.jpg"
+                    src="/image/12. Вода.jpg"
                     alt="Flower image"
                     layout="fill"
                     className="w-full h-full abject-cover"
