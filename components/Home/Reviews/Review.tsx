@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaStar } from 'react-icons/fa'
+import ReviewSlider from './ReviewSlider'
 
 const Review = () => {
     return (
@@ -23,7 +24,7 @@ const Review = () => {
                     </div>
                 </div>
                 <div className='overflow-hidden '>
-
+                   <ReviewSlider/>
                 </div>
             </div>
         </div>

@@ -140,48 +140,19 @@ export const reviewData = [
         id: 1,
         name: "John Doe",
         review: "The service exceeded my expectations. The team was professional, and I couldn’t be happier with the results!",
-        image: "/app/public/images/8. Божья коровка.jpg",
+        image: "/image/u1.jpg",
     },
     {
         id: 2,
         name: "Jane Smith",
         review: "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver with precision.",
-        image: "/app/public/images/8. Божья коровка.jpg",
+        image: "/image/u1.jpg",
     },
     {
         id: 3,
         name: "Michael Brown",
         review: "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted.",
-        image: "/app/public/images/11. Закат.jpg",
+        image: "/image/u1.jpg",
     },
-    {
-        id: 4,
-        name: "Emily Davis",
-        review: "Great experience from start to finish. Communication was excellent, and the final outcome was better than expected!",
-        image: "/app/public/images/14. Листва.jpg",
-    },
-    {
-        id: 5,
-        name: "David Wilson",
-        review: "Very satisfied with the service provided. Highly recommended for anyone looking for reliability and efficiency.",
-        image: "/app/public/images/7. Бабочка.jpg",
-    },
-    {
-        id: 6,
-        name: "Sophia Turner",
-        review: "Friendly team, clear communication, and excellent results. I’ll definitely return for future projects.",
-        image: "/app/public/images/8. Божья коровка.jpg",
-    },
-    {
-        id: 7,
-        name: "Chris Johnson",
-        review: "Superb quality and fast delivery. The attention to detail really stood out. Thanks for the great work!",
-        image: "/app/public/images/2. Хаски.jpg",
-    },
-    {
-        id: 8,
-        name: "Olivia Martinez",
-        review: "Amazing service from beginning to end. Everything was handled smoothly and professionally.",
-        image: "/app/public/images/4. Кот с наушниками.jpg",
-    }
 ];
+
