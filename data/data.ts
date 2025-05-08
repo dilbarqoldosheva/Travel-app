@@ -146,13 +146,32 @@ export const reviewData = [
         id: 2,
         name: "Jane Smith",
         review: "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver with precision.",
-        image: "/image/u1.jpg",
+        image: "/image/u2.jpg",
     },
     {
         id: 3,
         name: "Michael Brown",
         review: "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted.",
+        image: "/image/u3.jpg",
+    },
+    {
+        id: 4,
+        name: "John Doe",
+        review: "The service exceeded my expectations. The team was professional, and I couldn’t be happier with the results!",
         image: "/image/u1.jpg",
     },
+    {
+        id: 5,
+        name: "Jane Smith",
+        review: "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver with precision.",
+        image: "/image/u2.jpg",
+    },
+    {
+        id: 6,
+        name: "Michael Brown",
+        review: "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted.",
+        image: "/image/u3.jpg",
+    },
+    
 ];
 
